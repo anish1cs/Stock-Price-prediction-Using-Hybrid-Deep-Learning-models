@@ -1,7 +1,8 @@
 # Stock-Price-prediction-Using-Hybrid-Deep-Learning-models
 **Hybrid Models for Stock Price Prediction**<br>
-Welcome to this repository dedicated to advanced hybrid models for forecasting stock prices by combining statistical methods and deep learning techniques.
-<br>
+
+# Welcome to this repository dedicated to advanced hybrid models for forecasting stock prices by combining statistical methods and deep learning techniques.
+
 Goal: Model both linear trends (ARIMA) and nonlinear patterns (CNN-LSTM) to achieve more accurate and robust forecasts for financial time series.<br>
 # Features
 ✅ARIMA: Captures linear structure, trend, and seasonality<br>
